@@ -1,4 +1,4 @@
-# unet_pytorch
+# Unet Pytorch Image Segmentation
 ## Installation
 ```
 conda create -n unet_gpu python=3.11 -y
@@ -7,3 +7,5 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 pip install opencv-python matplotlib
 pip install albumentations
 ```
+## Download Sample Dataset
+``` python dataset_download.py```
