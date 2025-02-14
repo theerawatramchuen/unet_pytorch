@@ -15,3 +15,10 @@ Note: The Sample Dataset downloaded to ./data folder
 ```
 ## Training 
 ``` python train.py```
+## Inferencing
+```
+```
+### Code Development AI Chat Record
+```
+ DeepSeek - Unet Pytorch.mhtml
+```
