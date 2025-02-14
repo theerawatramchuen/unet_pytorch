@@ -8,6 +8,10 @@ pip install opencv-python matplotlib
 pip install albumentations
 ```
 ## Download Sample Dataset
-``` python dataset_download.py```
+```
+python dataset_download.py
+
+Note: The Sample Dataset downloaded to ./data folder 
+```
 ## Training 
 ``` python train.py```
