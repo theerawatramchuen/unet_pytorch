@@ -9,3 +9,5 @@ pip install albumentations
 ```
 ## Download Sample Dataset
 ``` python dataset_download.py```
+## Training 
+``` python train.py```
